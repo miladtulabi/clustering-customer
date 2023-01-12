@@ -1,4 +1,4 @@
-# clusttering-customer
+# clustering-customer
 
 Hello everyone!
 
